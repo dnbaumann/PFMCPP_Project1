@@ -52,84 +52,109 @@ arm.rotateCounterClockwise();           // 4) demonstrates camelCase
 
 
 //  1)
-//  Noun:
-//  action 1:
+//  Noun: bulldozer
+//  action 1: the blade goes up
+blade.up();
 
-//  action 2:
+//  action 2: the blade goes down
+blade.down();
 
-//  action 3:
+//  action 3:the bulldozer drives forward
+drive.forward();
 
 //  2)
-//  Noun:
-//  action 1:
+//  Noun:crane
+//  action 1:rotate to the left
+rotate.left();
 
-//  action 2:
+//  action 2:rotate to the right
+rotate.right();
 
-//  action 3:
+//  action 3: raise the pulley and hook slowly
+raise.slow();
 
 //  3)
-//  Noun:
-//  action 1:
+//  Noun:welder
+//  action 1:joins bars
+welder.join();
 
-//  action 2:
+//  action 2:cuts bars
+welder.cut();
 
-//  action 3:
+//  action 3:pickup the pieces
+welder.pickup();
 
 //  4)
-//  Noun:
-//  action 1:
+//  Noun:dumpTruck
+//  action 1:drives forward
+dumpTruck.forward();
 
-//  action 2:
+//  action 2: drives in reverse
+dumpTruck.reverse();
 
-//  action 3:
+//  action 3: dumpTruck drops off load
+dumpTruck.droffOff();
 
 //  5)
-//  Noun:
-//  action 1:
+//  Noun:hammer
+//  action 1:pounds a nail
+hammer.pound();
 
-//  action 2:
-
-//  action 3:
+//  action 2:pulls out a nail
+hammer.pull();
+//  action 3: falls to ground
+hammer.falls();
 
 //  6)
-//  Noun:
-//  action 1:
+//  Noun:mechanic
+//  action 1:fixes car
+mechanic.fixesCar();
+//  action 2:dissasembles engine
+mechanic.disassembles();
 
-//  action 2:
-
-//  action 3:
+//  action 3:assembles widget
+mechanic.assembles();
 
 //  7)
-//  Noun:
-//  action 1:
+//  Noun:screwdriver    
+//  action 1:Drive in a screw
+screwdriver.drive();
 
-//  action 2:
+//  action 2:Remove a screw
+screwdriver.remove();
 
-//  action 3:
+//  action 3:Pry off lock
+screwdriver.pry();
 
 //  8)
-//  Noun:
-//  action 1:
+//  Noun:torch
+//  action 1:Ignite the torch
+torch.ignite();
 
-//  action 2:
-
-//  action 3:
+//  action 2:extinguish the torch
+torch.extinguish();
+//  action 3:Use torch to light another fire
+torch.makeNewFire();
 
 //  9)
-//  Noun:
-//  action 1:
+//  Noun:frontLoader
+//  action 1:Drive forward
+frontLoader.forward();
 
-//  action 2:
-
-//  action 3:
-
+//  action 2:backup
+frontLoader.reverse();
+//  action 3:load a truck
+frontLoader.load();
 //  10)
-//  Noun:
-//  action 1:
+//  Noun:Hoe
+//  action 1:Dig a trench
+hoe.dig();
 
-//  action 2:
+//  action 2: Fill a trench
+hoe.fill();
 
-//  action 3:
+//  action 3:fill a truck with dirt, etc.
+hoe.fillTruck();
 
 
 
